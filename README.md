@@ -11,10 +11,9 @@
 | 1 | **Header** | Name and Job Title |
 | 2 | **About Me** | Short personal introduction |
 | 3 | **Skills** | Unordered list of technical skills |
-| 4 | **Experience** | Table with job title, company, duration, description |
-| 5 | **Projects** | 3 projects with tech stack and links |
-| 6 | **Education** | Table with degree, institution, year, result |
-| 7 | **Contact** | Email, GitHub, LinkedIn, Location |
+| 4 | **Projects** | 1 projects with tech stack and links |
+| 5 | **Education** | Table with degree, institution, year, result |
+| 6 | **Contact** | Email, GitHub, LinkedIn, Location |
 
 ---
 
